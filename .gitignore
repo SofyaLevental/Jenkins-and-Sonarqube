@@ -1,0 +1,10 @@
+/.metadata
+/.sonarlint
+**/bin
+**/.classpath
+**/.gradle
+**/gradlew
+**/gradlew.bat
+**/.project
+**/.settings
+
